@@ -9,6 +9,6 @@ time feature - time
 
 3.neighbourhood feature has the values in upper case so i used proper function to change the format.
 
-I have changed the date format to dd/mm/yyyy format.
+4.I have changed the date format to dd/mm/yyyy format.
 
-paitentid have any duplicate values but appointment id has no duplicate values. because same person change make different appointments for their health issues so no duplicate values is identified.
+5.paitentid have any duplicate values but appointment id has no duplicate values. because same person change make different appointments for their health issues so no duplicate values is identified.
